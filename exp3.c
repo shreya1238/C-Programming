@@ -1,3 +1,7 @@
+/* Name: Shreya Yadav
+Class: F.E. (Computer2)
+Batch: D
+UIN: 251P075 */
 #include<stdio.h>
 
 int main() {
@@ -44,6 +48,7 @@ switch(choice) {
 }
     return 0;
 }
+
 
 
 
