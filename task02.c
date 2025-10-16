@@ -1,7 +1,7 @@
-/*Name: Khan Soha Mohammed Amin
+/*Name: Shreya Yadav
 Class: F.E. (Computer2)
 Batch: D
-UIN: 251P104
+UIN: 251P075
 */
 
 #include <stdio.h>
@@ -33,5 +33,6 @@ int main() {
 
     return 0;
 }
+
 
 
