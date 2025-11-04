@@ -1,5 +1,4 @@
 /*Name: Shreya Yadav
-      Age: 17
       Class: F.E. (Computer2)
       Batch: D
       UIN: 251P075
@@ -29,4 +28,5 @@ int fact(int num) {
     }
      return 0;
 }
+
 
